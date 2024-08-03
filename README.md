@@ -66,4 +66,4 @@ Our Event Management Portal is a comprehensive web-based solution designed to st
 
 ## Team Members
 
-- [Rohit Yogeshwarar](https://github.com/Tihor999) 
+- [Srija Suyambu](https://github.com/srijasuyambu7168) 
